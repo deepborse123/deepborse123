@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dipesh Borse</h1>
+![logo](https://github.com/deepborse123/deepborse123/blob/main/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image.png)
+<h1 align="center">Dipesh Borse</h1>
 <h3 align="center">A passionate Data Analysis</h3>
 <img align="right"alt="coding"width="400"src="https://img.freepik.com/premium-vector/flat-design-man-is-analyzing-data-with-lot-dedication-working-his-office-laptop_505928-33.jpg?w=740"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepborse123&label=Profile%20views&color=0e75b6&style=flat" alt="deepborse123" /> </p>
