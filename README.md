@@ -4,7 +4,7 @@
 <img align="right"alt="coding"width="400"src="https://img.freepik.com/premium-vector/flat-design-man-is-analyzing-data-with-lot-dedication-working-his-office-laptop_505928-33.jpg?w=740"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepborse123&label=Profile%20views&color=0e75b6&style=flat" alt="deepborse123" /> </p>
 
-- 🔭 I’m currently working on Praj Industry **Scrap Rate Prediction Model By using Linear Regression**
+- 🔭 I’m currently working on Praj Industry 
 
 - 🌱 I’m currently learning **Python, SQL, Power BI, Flask**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dipeshborse01@gmail.com**
 
-- 📄 Know about my experiences [fresher GET](fresher GET)
+- 📄 Know about my experiences [fresher GET]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
